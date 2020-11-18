@@ -1,0 +1,20 @@
+#heading2{
+    border-radius: 7px;
+    font-size:20px;
+}
+
+#heading1{
+    font-size: 25px;
+}
+
+body{
+    background-image:url("family.png");
+    background-size:cover;
+}
+
+canvas{
+    border:5px solid lightseagreen;
+    border-radius: 20px;
+    box-shadow: 10 10 10 grey;
+    margin-top:160;
+}
